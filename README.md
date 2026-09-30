@@ -1,5 +1,6 @@
-# futog
-"The social transmission of optimism"
+# The social transmission of optimism
+
+# Abstract
 Optimism bias is the tendency to expect a more favourable personal future than the evidence warrants. It has been studied almost entirely at the level of the individual. Here we ask how optimism is shaped and shared through social interaction. Across three rounds, participants imagined a shared future scenario either alone or with a partner. We measured their beliefs about related and unrelated future events, how positively they evaluated the scenario the material depicted, and their memory for it. Imagining the future increased optimism selectively for events related to the imagined scenario. This increase was comparable whether people imagined alone or together, so it was produced by imagining rather than by the interaction. Interaction instead aligned partners' beliefs. Only for discussed future, and not undiscussed, did the convergence of beliefs exceed what regression to the mean or chance grouping can account for. This alignment was not accompanied by convergence in affect and was not explained by memory for the encoded event. While interaction had a generic positive effect on emotion evaluations, participants did not become more aligned in emotion as a product of the shift. In exploratory analyses, the size of the optimistic shift covaried with the affective tone of the conversation. Our results show that optimism is shaped and aligned through social interaction. This alignment is content-specific and separable from shared affect and shared memory.
 
 # FUTOG — data for reproduction
