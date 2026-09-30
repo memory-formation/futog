@@ -23,3 +23,7 @@ One row per participant / item / group, as described in `metadata.xlsx`.
 - **Individual condition** — participants did not interact, so each one carries their own participant ID in this column (75 "groups" of one). They are never treated as groups; they enter the pseudo-group null only as a pool of non-interacting individuals to be partitioned at random.
 
 The 94 distinct values are therefore 19 real groups plus 75 individual participants. Group labels are arbitrary identifiers (`G01`–`G19` for the interacting groups, `I01`–`I75` for the individual participants) and carry no information about when a session took place.
+
+## Acknowledgments
+This work was supported by the Spanish Ministerio de Ciencia, Innovación y Universidades, part of the Agencia Estatal de Investigación (AEI), through project PID2022-140426NB-I00 (funded by MCIN/AEI/10.13039/501100011033 and by FEDER, a way to make Europe) to L.F. We thank the CERCA Programme/Generalitat de Catalunya for institutional support.
+
