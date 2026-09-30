@@ -1,6 +1,6 @@
 # The social transmission of optimism
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23058377.svg)](https://doi.org/10.5281/zenodo.23058377)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23058378.svg)](https://doi.org/10.5281/zenodo.23058378)
 
 
 ## Abstract
